@@ -1,4 +1,4 @@
-# Project Title
+# Spring Boot Projects
 
 A brief description of your Spring Boot project.  
 E.g., "Employee Management System built with Spring Boot, MySQL, and REST APIs."
@@ -37,4 +37,4 @@ E.g., "Employee Management System built with Spring Boot, MySQL, and REST APIs."
    ```bash
    git clone https://github.com/rahulghosh111111/Spring-Boot-Projects.git
 cd Spring-Boot-Projects/project-name
-mvn spring-boot:run
+mvn spring-boot:run ♥
