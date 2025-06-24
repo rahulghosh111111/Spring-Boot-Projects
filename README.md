@@ -1,9 +1,6 @@
 # Spring Boot Projects
 
-A brief description of your Spring Boot project.  
-E.g., "Employee Management System built with Spring Boot, MySQL, and REST APIs."
-
----
+A brief description of your Spring Boot projects. 
 
 ## 🚀 Features
 
