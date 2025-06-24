@@ -7,7 +7,7 @@ E.g., "Employee Management System built with Spring Boot, MySQL, and REST APIs."
 
 ## 🚀 Features
 
-- Built using **Spring Boot** with MVC architecture
+- Built using **Spring Boot** with MVC(Model-View-Controller) architecture
 - RESTful APIs for CRUD operations
 - Integrated with **MySQL** using **Spring Data JPA**
 - Layered architecture: Controller, Service, Repository
@@ -22,8 +22,8 @@ E.g., "Employee Management System built with Spring Boot, MySQL, and REST APIs."
 
 - Java 17 / 11  
 - Spring Boot  
-- Spring MVC  
-- Spring Data JPA  
+- Spring MVC(Model-View-Controller)  
+- Spring Data JPA (Java Persistence API)  
 - Hibernate  
 - MySQL  
 - Maven  
