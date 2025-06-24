@@ -36,7 +36,7 @@ E.g., "Employee Management System built with Spring Boot, MySQL, and REST APIs."
 1. Clone the repository:
    ```bash
    git clone https://github.com/rahulghosh111111/Spring-Boot-Projects.git
-1. Clone the repository:
+1. Execute the repository:
    ```bash
    cd Spring-Boot-Projects/project-name
    mvn spring-boot:run ♥  
